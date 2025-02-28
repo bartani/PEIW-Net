@@ -6,7 +6,10 @@ Existing watermarking methods prioritize imperceptibility, robustness, and capac
 ## News
 
   -Paper Download (coming soon)
-  -The video of proposed work
+  
+  -The video of proposed work (coming soon)
+  
   -Training Code (coming soon)
+  
   -Pre-trained Models (coming soon)
     
